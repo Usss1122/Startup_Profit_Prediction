@@ -1,6 +1,6 @@
 Startup Profit Prediction – EDA & Linear Regression  
 Project Overview  
-This project analyzes a dataset of 50 startups to identify factors affecting **profitability**. We perform **Exploratory Data Analysis (EDA)** and build a **Linear Regression model** to predict startup success based on investment and location.  
+This project analyzes a dataset of 50 startups to identify factors affecting profitability. We perform Exploratory Data Analysis (EDA) and build a Linear Regression model to predict startup success based on investment and location.  
 Techniques Used  
 - EDA (Data Cleaning, Visualization, Feature Selection)  
 - Multiple Linear Regression for profit prediction  
@@ -13,7 +13,7 @@ Files in This Repository
 
 How to Use  
 1. Clone this repository  
-2. Open `ML_Startup_Data.ipynb` in Jupyter Notebook  
+2. Open ML_Startup_Data.ipynb in Jupyter Notebook  
 3. Run all cells to explore data, train models, and use saved models  
 
 Author  
