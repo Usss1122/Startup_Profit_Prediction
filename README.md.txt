@@ -2,7 +2,7 @@ Startup Profit Prediction – EDA & Linear Regression
 Project Overview  
 This project analyzes a dataset of 50 startups to identify factors affecting profitability. We perform Exploratory Data Analysis (EDA) and build a Linear Regression model to predict startup success based on investment and location.  
 Techniques Used  
-- EDA (Data Cleaning, Visualization, Feature Selection)  
+- EDA 
 - Multiple Linear Regression for profit prediction  
 - Joblib for model saving and deployment  
 
